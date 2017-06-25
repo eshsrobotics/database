@@ -1,7 +1,9 @@
 # P.O.T.A.T.O.E.S. Branding Guideline
 
 ## Logo
-The appropriate ways of displaying the P.O.T.A.T.O.E.S. logo are the following.
+All Logo variations are available in both black and white within the [logos folder](./logos). 
+
+The appropriate ways of displaying the logo are the following:
 - By itself
 
 ![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/logo-300px.png "ESHS Potatoes")
