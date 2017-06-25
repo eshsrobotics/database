@@ -1,5 +1,7 @@
 # P.O.T.A.T.O.E.S. Branding Guideline
 
+When referring to the P.O.T.A.T.O.E.S. by their team name in written form, all the letters must be upper-case and seperated by periods to maintain the brands integrity. By doing so it makes it clear that the team name is also an accronym.
+
 ## Logo
 All Logo variations are available in both black and white within the [logo folder](./logo). 
 
@@ -14,7 +16,7 @@ The appropriate ways of displaying the logo are the following:
 
 ![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/title-motto-black-360x70.png "ESHS Potatoes")
 
-## Color Palette
+## Color Palette 
 
 | Color      | Purpose   | Hex Value |
 |------------|-----------|-----------|
