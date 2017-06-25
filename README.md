@@ -1,2 +1,6 @@
-# database
-Database for all POTATO related files &amp; documentation
+# Official Document repository for the P.O.T.A.T.O.E.S.
+
+The purpose of this repository is to store all documents related to the ESHS robotics team with the exception of any documents containing sensitive information.
+
+## The Wiki
+This repo also hosts the teams community [wiki](https://github.com/eshsrobotics/database/wiki)
