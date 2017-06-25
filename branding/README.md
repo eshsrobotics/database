@@ -1,7 +1,7 @@
 # P.O.T.A.T.O.E.S. Branding Guideline
 
 ## Logo
-All Logo variations are available in both black and white within the [logo folder](./logos). 
+All Logo variations are available in both black and white within the [logo folder](./logo). 
 
 The appropriate ways of displaying the logo are the following:
 - By itself
