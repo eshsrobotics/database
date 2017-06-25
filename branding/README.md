@@ -1,7 +1,16 @@
 # P.O.T.A.T.O.E.S. Branding Guideline
 
 ## Logo
- ![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/logo-300px.png "ESHS Potatoes")
+The appropriate ways of displaying the P.O.T.A.T.O.E.S. logo are the following.
+- By itself
+
+![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/logo-300px.png "ESHS Potatoes")
+- Logo with name
+
+![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/title-black-360x70.png "ESHS Potatoes")
+- Logo with name & motto
+
+![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/title-motto-black-360x70.png "ESHS Potatoes")
 
 ## Color Palette
 
