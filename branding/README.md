@@ -5,12 +5,14 @@
 
 ## Color Palette
 
-| Color    | Purpose   | Hex Value |
-|----------|-----------|-----------|
-| Burgundy | Main      | #620000   |
-| Black    | Accent    | #000000   | 
-| White    | Accent    | #FFFFFF   | 
-| Grey     | Accent    |           |
+| Color      | Purpose   | Hex Value |
+|------------|-----------|-----------|
+| Dark Green | Main      | #002400   |
+| Light Grey | Accent    | #D3D3D3   |
+| White      | Accent    | #FFFFFF   | 
+| Black      | Accent    | #000000   | 
+
+
 
 ## Fonts
 
