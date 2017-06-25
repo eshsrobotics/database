@@ -1,7 +1,7 @@
 # P.O.T.A.T.O.E.S. Branding Guideline
 
 ## Logo
- ![alt text](https://github.com/eshsrobotics/branding/blob/master/logo/logo-300px.png "ESHS Potatoes")
+ ![alt text](https://github.com/eshsrobotics/database/blob/master/branding/logo/logo-300px.png "ESHS Potatoes")
 
 ## Color Palette
 
@@ -12,7 +12,7 @@
 | White      | Accent    | #FFFFFF   | 
 | Black      | Accent    | #000000   | 
 
-
+![alt text](https://github.com/eshsrobotics/database/blob/master/branding/color-palette.jpg "ESHS Potatoes")
 
 ## Fonts
 
