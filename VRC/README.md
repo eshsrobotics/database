@@ -1,1 +1,4 @@
-All files related to VRC, or the VEX Robotics Competition.
+Find
+* Screenshots relating to RobotC (used for the GitHub Repository Database Wiki)
+* VRC Slideshow Presentations
+* VRC Attendence Sheets
