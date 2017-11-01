@@ -1,4 +1,4 @@
 Find
 * Screenshots relating to RobotC (used for the GitHub Repository Database Wiki)
-* VRC Slideshow Presentations
-* VRC Attendence Sheets
+* VRC slideshow presentations
+* VRC attendence sheets
