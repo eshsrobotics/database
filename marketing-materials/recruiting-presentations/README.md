@@ -1,1 +1,2 @@
-Find all recruiting presentations in this folder.
+Find
+* Recruiting presentations
