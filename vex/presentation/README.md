@@ -1,0 +1,1 @@
+In here you will find VEX presentations that were added in preparation for the 2017-2018 school year. Day 1, 2, and 5 presentations are already separated. Inside of the "source" directory you will find the set of 7zip files. Unzip and you will obtain the complete VEX Presentation (for all days)
